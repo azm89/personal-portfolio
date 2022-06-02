@@ -250,7 +250,7 @@ main {
 
 @media screen and (max-width: 980px) {
   header {
-    padding 0 0 10px 0;
+    padding: 0 0 10px 0;
     justify-content: center;
     text-align: center;
   }
